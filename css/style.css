@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#board {
+    background-color: #005;
+}
+
+.u_area {
+    border: solid 4px;
+    width: 200px;
+    height: 100px;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+#u_area1 {
+    border-color: red;
+    background-color: rgba(255, 160, 160, 0.6);
+}
+
+#u_area2 {
+    border-color: orange;
+}
+
+#u_area3 {
+    border-color: green;
+}
+
+#u_area4 {
+    border-color: purple;
+}
+
